@@ -1,6 +1,6 @@
 # ora-pcs
 Redirection to the "ora-pcs" repository
 
-The actual repository resides at "https://github.com/tigormanmsft/ora-pcs/", please use this URL?
+The project actually resides at "https://github.com/tigormanmsft/ora-pcs/", so please use this URL instead?
 
-Thank you!  My apologies for any confusion.
+Thank you!  My sincere apologies for any confusion.
