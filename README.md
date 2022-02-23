@@ -1,5 +1,5 @@
 # orapcs => ora-pcs
-Redirection to the "ora-pcs" project repository, which actually resides at "https://github.com/azure/oracle-workloads-on-azure/orapcs/", so please use this URL instead?
+Redirection to the "ora-pcs" project repository, which actually resides at "https://github.com/Azure/Oracle-Workloads-for-Azure", so please use this URL instead?
 
 ORA-PCS is a project to create a Linux HA cluster using open-source Pacemaker/Corosync (PCS) with a single-instance non-RAC Oracle database as the cluster payload.  Azure Shared Disk is used as the shared storage for the cluster nodes.
 
